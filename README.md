@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/simanur-ta%c5%9fl%c4%b1o%c4%9flu-4251052bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/simanur-ta%c5%9fl%c4%b1o%c4%9flu-4251052bb/" height="30" width="40" /></a>
 <a href="https://instagram.com/codewithsima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithsima" height="30" width="40" /></a>
 </p>
 
